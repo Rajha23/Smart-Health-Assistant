@@ -1,0 +1,26 @@
+Flu,fever;cough;headache;sore throat
+Common Cold,cough;sneezing;runny nose
+chronic:Diabetes,fatigue;increased thirst;frequent urination
+Malaria,fever;chills;sweating;headache
+Allergy,sneezing;itchy eyes;runny nose
+Gastroenteritis,diarrhea;vomiting;abdominal pain;fever
+
+Pneumonia,fever;cough;shortness of breath;chest pain
+chronic:Asthma,wheezing;shortness of breath;chest tightness
+Tuberculosis,prolonged cough;weight loss;night sweats;fever
+Migraine,severe headache;nausea;sensitivity to light;visual aura
+COVID-19,fever;cough;loss of taste or smell;fatigue;shortness of breath
+Bronchitis,cough;phlegm;chest discomfort;fatigue
+Urinary Tract Infection,painful urination;urgency;lower abdominal pain;fever
+Hepatitis,jaundice;abdominal pain;dark urine;fatigue
+Dengue,high fever;severe headache;joint pain;rash;bleeding tendencies
+Chickenpox,fever;vesicular rash;itching;fatigue
+Measles,fever;cough;conjunctivitis;rash
+Arthritis,joint pain;stiffness;swelling;reduced range of motion
+chronic:Hypertension,headache;dizziness;blurred vision;chest pain
+Hyperthyroidism,weight loss;palpitations;heat intolerance;anxiety
+Hypothyroidism,fatigue;weight gain;cold intolerance;constipation
+COPD,chronic cough;shortness of breath;wheezing;frequent infections
+Stroke,sudden numbness;confusion;difficulty speaking;vision problems
+Ear Infection,ear pain;hearing loss;fever;ear discharge
+Mononucleosis(flu-like),fatigue;fever;sore throat;swollen lymph nodes

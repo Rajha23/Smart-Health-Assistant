@@ -1,0 +1,3 @@
+John Doe
+35
+fever, cough
